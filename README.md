@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashjoshi-dotcom
 - 👀 I’m interested in trying out some new things.
-- 🌱 I’m currently learning basics of prograaming and some web development.
-- 💞️ I’m looking to collaborate on simple products that somehow aim to help the community.
+- 🌱 I’m currently learning nitty-grities of cpp prograaming and some web development.
+- 💞️ Love Working on community driven impactful projects that make life easier one bit at a time.
 - 📫 How to reach me : visit my linkedin profile at  www.linkedin.com/in/yashjoshi25
 
 <!---
